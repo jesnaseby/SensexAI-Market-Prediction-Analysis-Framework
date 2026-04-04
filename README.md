@@ -164,7 +164,7 @@ by delivering an **interactive financial intelligence system**.
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 | Category | Tools |
 |----------|------|
@@ -181,4 +181,4 @@ by delivering an **interactive financial intelligence system**.
 
 ---
 
-## 📁 Project Structure
+
