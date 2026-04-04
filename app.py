@@ -43,7 +43,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Constants ──────────────────────────────────────────────────────────────────
-DEEPSEEK_API_KEY = "sk-578e68468faa4ebd8d2fb61058403c4a"   # ← paste your key here
+DEEPSEEK_API_KEY = " "   # ← paste your key here
 NEWS_PATH        = "india-news-headlines.csv"
 EMBED_MODEL      = "all-MiniLM-L6-v2"
 WINDOW_DAYS      = 7    # retrieve headlines ±7 days around query date
